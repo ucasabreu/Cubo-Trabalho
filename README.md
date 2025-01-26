@@ -6,13 +6,13 @@ Este projeto consiste em desenvolver um programa em WebGL que permita ao usuári
 
 ## Funcionalidades
 
-### Translação (3,0 pontos)
+### Translação 
 - O usuário poderá clicar e arrastar dentro da área interna do objeto para movê-lo.
 
-### Rotação (3,5 pontos)
+### Rotação 
 - Permitir que o usuário rotacione o objeto em torno do seu baricentro.
 
-### Redimensionamento (3,5 pontos)
+### Redimensionamento 
 - Permitir que o objeto seja escalado (aumentado ou reduzido) com relação ao seu baricentro.
 
 ## Estrutura do Projeto
